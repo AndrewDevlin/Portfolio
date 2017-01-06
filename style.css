@@ -1,0 +1,30 @@
+#sidebar{
+  float: left;
+  margin: 2px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: ;
+  width: 20%
+}
+
+#header{
+  float: right;
+  margin: 2px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: ;
+  width: 78%
+}
+
+#about{
+  float: right;
+  margin: 2px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: ;
+  width: 78%;
+}
+
+img{
+  width: 100%
+}
