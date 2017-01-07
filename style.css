@@ -1,8 +1,8 @@
-body{
+body {
   background-color: #FDFDFD
 }
 
-#sidebar{
+#sidebar {
   float: left;
   margin: 2px;
   border: 2px solid #000044;
@@ -11,7 +11,7 @@ body{
   width: 20%
 }
 
-#header{
+#header {
   float: right;
   margin: 2px;
   border: 2px solid #000044;
@@ -20,7 +20,7 @@ body{
   width: 78%
 }
 
-#about{
+#about {
   float: right;
   margin: 2px;
   border: 2px solid #000044;
@@ -29,7 +29,7 @@ body{
   width: 78%;
 }
 
-img{
+img {
   width: 25%
 }
 
@@ -40,6 +40,10 @@ img{
   background-color: success ;
 }
 
-em{
+em {
   color: #FFDC74;
+}
+
+.first {
+  font-weight: 600;
 }
