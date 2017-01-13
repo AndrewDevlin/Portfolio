@@ -1,0 +1,36 @@
+
+.col-md-6 {
+  float:left;
+  margin: 12px;
+  padding: 4px;
+}
+
+#header {
+  margin: 12px;
+  border: solid green 2px;
+  padding: 4px;
+  height: 20%;
+  background-color: #DCDCDC;
+}
+
+#about {
+  margin: 12px;
+  padding: 4px;
+}
+
+#projects {
+  margin: 12px;
+  padding: 4px;
+}
+
+img {
+  width: 25%
+}
+
+em {
+  color: green;
+}
+
+.first {
+  font-weight: 600;
+}

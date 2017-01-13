@@ -1,15 +1,14 @@
 #**Portfolio**
-
-###**Created by Andrew Devlin**
+###by Andrew Devlin
 
 ##**Description**
-
 ####This web site gives a brief introduction to me, and links to my GitHub projects.
 
 ##**Setup**
-
-####Open in a browser of your choice.
+####Clone this repository and then open 'index.html' in the browser, or
+####[Click here to see the site.](https://AndrewDevlin.github.io/Portfolio)
 
 ##**Technologies Used**
+####Atom, html, css, bootstrap
 
-####Atom, html, bootstrap
+###I'm not offering any license on this site.
